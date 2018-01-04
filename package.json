@@ -1,0 +1,14 @@
+{
+  "name": "jumpstart-assignment-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/mocha/bin/mocha test"
+  },
+  "author": "ThoughtWorks",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^4.1.0"
+  }
+}
