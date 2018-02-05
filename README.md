@@ -18,3 +18,5 @@ In this assignment, you will model people, matchmakers, couples!
 
 4. As a matchmaker, I want to be able to go through my array of Persons and create a Couple if I find 2 persons that match
 
+---
+Copyright (c) 2018 ThoughtWorks. For personal use and training purposes only; not to be copied or distributed without further approval.
